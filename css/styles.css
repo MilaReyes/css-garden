@@ -1,1 +1,28 @@
-styles.css
+body{
+	background-color: #D8D8D8;
+	padding:10px;
+	margin: 10px;
+	border:3px dashed purple;
+}
+h1{
+	text-align:center;
+	border: 2px solid #4C0B5F;
+	font-style: italic;
+	color:#9F81F7;
+}
+h2{
+	color:#9F81F7;
+	margin: 10px;
+}
+a{
+	color:#9A2EFE;
+}
+.summary{
+	border:2px dashed purple;
+	margin:10px;
+	padding: 10px;
+}
+h3{
+	color:#9F81F7;
+	margin: 10px;
+}
